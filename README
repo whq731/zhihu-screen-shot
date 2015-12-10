@@ -1,0 +1,27 @@
+基于phantomJs环境
+
+https://github.com/ariya/phantomjs
+
+
+下载地址：
+
+http://phantomjs.org/download.html
+
+Mac下：
+
+brew install phantomjs
+
+
+运行该文件：
+
+$ phantomjs zhizhu.js 问题名
+
+
+会在该文件夹下生成相关问题和每个问题下的回答列表的截图
+
+
+
+
+
+To be continue…
+
